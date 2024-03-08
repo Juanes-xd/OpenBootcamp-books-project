@@ -1,6 +1,6 @@
-package Repository;
+package com.juanes.OpenBootcamp.books.project.Repository;
 
-import entities.Book;
+import com.juanes.OpenBootcamp.books.project.entities.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
